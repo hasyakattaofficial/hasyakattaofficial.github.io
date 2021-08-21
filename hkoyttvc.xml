@@ -10,7 +10,6 @@
   <media:content
    url="https://www.youtube.com/watch?v=i5bESdP6CEA"
    duration="1.0"
-   bitrate="2500"
    language="en-us" />
 </item>
 <item>
@@ -24,7 +23,6 @@
   <media:content
    url="https://www.youtube.com/watch?v=ICsr_oCvF90"
    duration="0.08"
-   bitrate="2500"
    language="en-us" />
 </item>
 <item>
@@ -38,7 +36,6 @@
   <media:content
    url="https://www.youtube.com/watch?v=D3zWX1O7KSk"
    duration="0.08"
-   bitrate="2500"
    language="en-us" />
 </item>
 <item>
@@ -52,6 +49,5 @@
   <media:content
    url="https://www.youtube.com/watch?v=2LKGhKURVJY"
    duration="0.09"
-   bitrate="2500"
    language="en-us" />
 </item>
